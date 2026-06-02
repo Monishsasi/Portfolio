@@ -30,6 +30,8 @@ const SKILLS = [
       "Scikit-learn",
       "Pandas",
       "NumPy",
+      "Matplotlib",
+      "Seaborn",
       "Feature Engineering",
       "Model Evaluation",
     ],
